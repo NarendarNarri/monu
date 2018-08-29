@@ -82,9 +82,9 @@
       				<sonar.host.url>
           			http://52.74.156.183:9000
       				</sonar.host.url>
-      		</properties>
-  	</profile>
-</profiles>
+      		                </properties>
+  	       </profile>
+        </profiles>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<resources>
